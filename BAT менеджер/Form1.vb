@@ -21,7 +21,7 @@
 Mark1:
         If IO.Directory.Exists(ReadINI("general_settings", "folder_in", sAppPathINI)) = False Then
 
-            Dim mess = MsgBox("Сетевая папка не доступна!" & vbCrLf & vbCrLf & "Запустите BAT-файл подключения сетевой папки на регистрирующем компьютере, и нажмите OK. Программа проверит сетевое подключение ещё раз.", 16 + 1, "Ошибка! Сетевая папка не доступна.") 'значения цифр прилагаю
+                    Dim mess = MsgBox("Директория не доступна!" & vbCrLf & vbCrLf & "Проверьте доступность папки, и нажмите OK.", 16 + 1, "Ошибка! Директория не доступна.") 'значения цифр прилагаю
             If mess = DialogResult.OK Then
                 'Process.Start(ReadINI("general_settings", "network_bat", sAppPathINI))
                 GoTo Mark1
