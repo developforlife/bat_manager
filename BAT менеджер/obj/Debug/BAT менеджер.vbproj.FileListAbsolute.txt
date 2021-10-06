@@ -1,0 +1,20 @@
+C:\Users\Антон\AppData\Local\Temporary Projects\BAT менеджер\bin\Debug\BAT менеджер.exe
+C:\Users\Антон\AppData\Local\Temporary Projects\BAT менеджер\bin\Debug\BAT менеджер.pdb
+C:\Users\Антон\AppData\Local\Temporary Projects\BAT менеджер\bin\Debug\BAT менеджер.xml
+C:\Users\Антон\AppData\Local\Temporary Projects\BAT менеджер\obj\Debug\BAT_менеджер.Form1.resources
+C:\Users\Антон\AppData\Local\Temporary Projects\BAT менеджер\obj\Debug\BAT_менеджер.Resources.resources
+C:\Users\Антон\AppData\Local\Temporary Projects\BAT менеджер\obj\Debug\BAT менеджер.vbproj.GenerateResource.Cache
+C:\Users\Антон\AppData\Local\Temporary Projects\BAT менеджер\obj\Debug\BAT менеджер.exe
+C:\Users\Антон\AppData\Local\Temporary Projects\BAT менеджер\obj\Debug\BAT менеджер.xml
+C:\Users\Антон\AppData\Local\Temporary Projects\BAT менеджер\obj\Debug\BAT менеджер.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\BAT менеджер\BAT менеджер\obj\Debug\BAT менеджер.exe
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\BAT менеджер\BAT менеджер\obj\Debug\BAT менеджер.xml
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\BAT менеджер\BAT менеджер\obj\Debug\BAT менеджер.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\BAT менеджер\BAT менеджер\bin\Debug\BAT менеджер.exe
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\BAT менеджер\BAT менеджер\bin\Debug\BAT менеджер.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\BAT менеджер\BAT менеджер\bin\Debug\BAT менеджер.xml
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\BAT менеджер\BAT менеджер\obj\Debug\BAT_менеджер.Form1.resources
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\BAT менеджер\BAT менеджер\obj\Debug\BAT_менеджер.Resources.resources
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\BAT менеджер\BAT менеджер\obj\Debug\BAT менеджер.vbproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\BAT менеджер\BAT менеджер\obj\Debug\BAT менеджер.vbprojAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\BAT менеджер\BAT менеджер\obj\Debug\BAT менеджер.vbproj.CoreCompileInputs.cache
